@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/self-updating-list/static/css/main.21fa94ca.css",
+    "main.js": "/self-updating-list/static/js/main.5d694ebb.js",
+    "index.html": "/self-updating-list/index.html",
+    "main.21fa94ca.css.map": "/self-updating-list/static/css/main.21fa94ca.css.map",
+    "main.5d694ebb.js.map": "/self-updating-list/static/js/main.5d694ebb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.21fa94ca.css",
+    "static/js/main.5d694ebb.js"
+  ]
+}
